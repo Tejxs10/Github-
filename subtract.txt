@@ -1,0 +1,9 @@
+#include<iostream,h>
+using namespace std;
+int main()
+{
+    int a=86, b=58, c;
+    c=a-b;
+    cout<<"the difference of two nums="<<c;
+    return 0;
+}

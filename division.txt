@@ -1,0 +1,9 @@
+#include<iostream,h>
+using namespace std;
+int main()
+{
+    int a=25, b=5, c;
+    c=a/b;
+    cout<<"the quotient of two nums="<<c;
+    return 0;
+}
